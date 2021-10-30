@@ -1,0 +1,164 @@
+*{padding:0;  margin:0;}
+
+/****************** 1200px *******************************/
+@media(min-width:1201px)
+{
+  #content-list{
+    text-decoration: none;
+    text-align: left;
+    font-size: 32px;
+    color: rgb(39, 39, 39);
+    margin: 3%;
+  }
+  
+  a:hover { 
+    color: rgb(6, 76, 228);
+  }
+  
+  a{ 
+    color: rgb(39, 39, 39);
+  }
+
+  li{
+    margin-left: 10%;
+  }
+
+  #header{
+    font-size: 30px;
+  }
+} 
+/****************** 992px and 1200px *******************************/
+@media(min-width:1001px ) and (max-width:1200px)
+{
+  #content-list{
+    text-decoration: none;
+    text-align: left;
+    font-size: 32px;
+    color: rgb(39, 39, 39);
+    margin: 3%;
+  }
+  
+  a:hover { 
+    color: rgb(6, 76, 228);
+  }
+  
+  a{ 
+    color: rgb(39, 39, 39);
+  }
+
+  li{
+    margin-left: 10%;
+  }
+
+  #header{
+    font-size: 30px;
+  }
+} 
+
+/****************** 701px and 1000px *******************************/
+@media(min-width:701px ) and (max-width:1000px)
+{
+  #content-list{
+    text-decoration: none;
+    text-align: left;
+    font-size: 25px;
+    color: rgb(39, 39, 39);
+    margin: 3%;
+  }
+  
+  a:hover { 
+    color: rgb(6, 76, 228);
+  }
+  
+  a{ 
+    color: rgb(39, 39, 39);
+  }
+
+  li{
+    margin-left: 10%;
+  }
+
+  #header{
+    font-size: 30px;
+  }
+} 
+
+/****************** 701px and 1000px *******************************/
+@media(min-width:451px ) and (max-width:700px)
+{
+  #content-list{
+    text-decoration: none;
+    text-align: left;
+    font-size: 25px;
+    color: rgb(39, 39, 39);
+    margin: 3%;
+  }
+  
+  a:hover { 
+    color: rgb(6, 76, 228);
+  }
+  
+  a{ 
+    color: rgb(39, 39, 39);
+  }
+
+  li{
+    margin-left: 10%;
+  }
+
+  #header{
+    font-size: 18px;
+  }
+} 
+
+/****************** 701px and 1000px *******************************/
+@media(max-width:450px)
+{
+  #content-list{
+    text-decoration: none;
+    text-align: left;
+    font-size: 20px;
+    color: rgb(39, 39, 39);
+    margin: 3%;
+  }
+  
+  a:hover { 
+    color: rgb(6, 76, 228);
+  }
+  
+  a{ 
+    color: rgb(39, 39, 39);
+  }
+
+  li{
+    margin-left: 10%;
+  }
+
+  #header{
+    font-size: 18px;
+  }
+} 
+/*********************** end *******************************/
+
+#wrapper-mainpage{ 
+  padding: none;
+  background-color: rgb(234, 240, 240);
+}
+
+#header{
+  background-color: rgb(39, 39, 39);
+  height: 100px;
+  color: white;
+  text-align: center;
+  padding-top: 2%;
+}
+
+#footer{
+  background-color: rgb(39, 39, 39);
+  height: 100px;
+  color: white;
+  text-align: center;
+}
+
+
+
